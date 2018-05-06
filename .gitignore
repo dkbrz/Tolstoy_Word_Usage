@@ -1,7 +1,4 @@
 papers/
 data/
+models/
 nkrya.txt
-model_nkrya_cbow.model
-model_nkrya_cbow.model.syn1neg.npy
-model_nkrya_cbow.model.wv.syn0.npy
-model_tolstoy_cbow.model
